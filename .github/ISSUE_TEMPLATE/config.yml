@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Bug report and feature request
+    url: https://github.com/python-poetry/poetry/issues
+    about: Report a bug or make feature requests to the Poetry team.
+  - name: Questions and feedback
+    url: https://github.com/python-poetry/poetry/discussions
+    about: Share your feedback and ask questions to the Poetry team.
